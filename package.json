@@ -1,0 +1,19 @@
+{
+  "name": "darkpage-github",
+  "version": "1.0.0",
+  "description": "这是荣荣在GitHub上的项目",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkPage/darkpage.github.io.git"
+  },
+  "author": "荣荣",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkPage/darkpage.github.io/issues"
+  },
+  "homepage": "https://darkpage.github.io/"
+}
