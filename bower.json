@@ -1,0 +1,17 @@
+{
+  "name": "bower-github",
+  "description": "这是荣荣在GitHub上的项目",
+  "main": "index.html",
+  "authors": [
+    "荣荣"
+  ],
+  "license": "ISC",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
